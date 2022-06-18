@@ -1,1 +1,1 @@
-Primera subida a gits
+Primera subida a git
